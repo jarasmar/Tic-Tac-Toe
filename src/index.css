@@ -49,7 +49,10 @@ body {
     margin-left: 20px;
   }
 
-  button.selected {
+  button.selected,
+  button.winning-square {
       background-color: azure;
   }
+
+
   
